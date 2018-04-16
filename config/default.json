@@ -1,0 +1,11 @@
+{
+  "webcom": {
+    "baseUrl": "https://io.datasync.orange.com/base",
+    "database": "crd-web-m-env",
+    "saveDirectory": "result_directory",
+    "saveAccount": {
+        "email": "worker@orange.com",
+        "password": "12345678"
+    }
+  }
+}
