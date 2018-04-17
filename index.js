@@ -1,7 +1,7 @@
 const commander = require('commander');
 const objPath = require('object-path');
 const config = require('config');
-const Webcom = require('./lib/webcom/wrapper');
+const Webcom = require('webcom-as-promised');
 
 const helpers = require('./lib/helpers');
 

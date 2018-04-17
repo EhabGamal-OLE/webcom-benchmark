@@ -24,6 +24,6 @@
     "commander": "^2.15.1",
     "config": "^1.30.0",
     "object-path": "^0.11.4",
-    "webcom": "^1.3.2"
+    "webcom-as-promised": "^1.0.0"
   }
 }
