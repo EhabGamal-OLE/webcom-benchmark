@@ -9,6 +9,7 @@
   "scripts": {
     "start": "node ./index.js",
     "benchmark": "NODE_ENV=benchmark node ./index.js",
+    "custome": "NODE_ENV=custome node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
