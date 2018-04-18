@@ -1,0 +1,6 @@
+{
+  "webcom": {
+    "baseUrl": "https://io.staging2fr2.webcom.orange.com/base",
+    "database": "crd-be-benchmark"
+  }
+}

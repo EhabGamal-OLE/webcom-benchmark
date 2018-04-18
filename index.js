@@ -60,4 +60,3 @@ webcomRef
     console.log(err);
     process.exit();
   })
-

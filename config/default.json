@@ -1,7 +1,7 @@
 {
   "webcom": {
-    "baseUrl": "https://io.staging2fr2.webcom.orange.com/base",
-    "database": "crd-be-benchmark",
+    "baseUrl": "https://io.datasync.orange.com/base",
+    "database": "crd-web-m-env",
     "saveDirectory": "result_directory",
     "saveAccount": {
         "email": "worker@orange.com",
